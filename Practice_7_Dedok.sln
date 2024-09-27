@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_7_Dedok", "Practice_7_Dedok.csproj", "{F9DA8086-C3D8-4769-9E0D-A027C0502E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DA8086-C3D8-4769-9E0D-A027C0502E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DA8086-C3D8-4769-9E0D-A027C0502E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DA8086-C3D8-4769-9E0D-A027C0502E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DA8086-C3D8-4769-9E0D-A027C0502E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A160B374-66EB-4017-BA19-F651F2733AF3}
+	EndGlobalSection
+EndGlobal
